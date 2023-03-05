@@ -1,0 +1,311 @@
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Paul\Desktop\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+D:\Backup Files\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Ken - Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Desktop\Design\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Lanz\Desktop\Design\Ken Design Exports WIP\04-03-2019\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Documents\デザイン 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.HolidayControl.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.dll
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.HolidayControl.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Ken Osako\Documents\Design 1\Employee Login System - Raw\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.HolidayControl.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\lanzc\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe.config
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\Google.Protobuf.dll
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\MySql.Data.xml
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.ResolveComReference.cache
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeMenu.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeRecord.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.EmployeeSalary.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ExportToExcel.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.HolidayControl.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageAdmins.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.SalaryControl.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.ViewSalary.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.exe
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee Login System Using RFID Reader.pdb
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.GeneratePayslip.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Payslip.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.Variables.resources
+C:\Users\Lanz\Desktop\Employee Login System\Employee Login System Using RFID Reader\obj\Debug\Employee_Login_System_Using_RFID_Reader.LeaveAdjustment.resources

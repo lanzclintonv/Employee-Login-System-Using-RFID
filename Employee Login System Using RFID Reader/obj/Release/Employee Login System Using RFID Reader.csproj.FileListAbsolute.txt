@@ -1,0 +1,20 @@
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.AddEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.AttendanceRecord.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.EditEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.GetAttendance.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.Login.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.MainMenu.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.ManageEmployees.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee_Login_System_Using_RFID_Reader.Properties.Resources.resources
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\Employee Login System Using RFID Reader.exe.config
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\Employee Login System Using RFID Reader.pdb
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\MySql.Data.dll
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\Google.Protobuf.dll
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\bin\Release\MySql.Data.xml
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.csproj.CopyComplete
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.exe
+C:\Users\Paul\Desktop\My Documents\Projects\Design\Ken Osako\Employee Login System Using RFID Reader\Employee Login System Using RFID Reader\obj\Release\Employee Login System Using RFID Reader.pdb
