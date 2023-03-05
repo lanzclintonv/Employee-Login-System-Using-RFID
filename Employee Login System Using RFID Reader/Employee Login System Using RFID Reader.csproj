@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53C32787-7C54-4861-B3C8-38115054C100}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Employee_Login_System_Using_RFID_Reader</RootNamespace>
+    <AssemblyName>Employee Login System Using RFID Reader</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployees.Designer.cs">
+      <DependentUpon>AddEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttendanceRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttendanceRecord.Designer.cs">
+      <DependentUpon>AttendanceRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseAccess.cs" />
+    <Compile Include="EditEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditEmployees.Designer.cs">
+      <DependentUpon>EditEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMenu.Designer.cs">
+      <DependentUpon>EmployeeMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRecord.Designer.cs">
+      <DependentUpon>EmployeeRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeSalary.Designer.cs">
+      <DependentUpon>EmployeeSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportToExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportToExcel.Designer.cs">
+      <DependentUpon>ExportToExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneratePayslip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneratePayslip.Designer.cs">
+      <DependentUpon>GeneratePayslip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetAttendance.Designer.cs">
+      <DependentUpon>GetAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HolidayControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HolidayControl.Designer.cs">
+      <DependentUpon>HolidayControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveAdjustment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeaveAdjustment.Designer.cs">
+      <DependentUpon>LeaveAdjustment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAdmins.Designer.cs">
+      <DependentUpon>ManageAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageEmployees.Designer.cs">
+      <DependentUpon>ManageEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payslip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payslip.Designer.cs">
+      <DependentUpon>Payslip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalaryControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalaryControl.Designer.cs">
+      <DependentUpon>SalaryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Variables.Designer.cs">
+      <DependentUpon>Variables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSalary.Designer.cs">
+      <DependentUpon>ViewSalary.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEmployees.resx">
+      <DependentUpon>AddEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendanceRecord.resx">
+      <DependentUpon>AttendanceRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditEmployees.resx">
+      <DependentUpon>EditEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMenu.resx">
+      <DependentUpon>EmployeeMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRecord.resx">
+      <DependentUpon>EmployeeRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeSalary.resx">
+      <DependentUpon>EmployeeSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportToExcel.resx">
+      <DependentUpon>ExportToExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneratePayslip.resx">
+      <DependentUpon>GeneratePayslip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetAttendance.resx">
+      <DependentUpon>GetAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HolidayControl.resx">
+      <DependentUpon>HolidayControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeaveAdjustment.resx">
+      <DependentUpon>LeaveAdjustment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAdmins.resx">
+      <DependentUpon>ManageAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageEmployees.resx">
+      <DependentUpon>ManageEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payslip.resx">
+      <DependentUpon>Payslip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SalaryControl.resx">
+      <DependentUpon>SalaryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Variables.resx">
+      <DependentUpon>Variables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSalary.resx">
+      <DependentUpon>ViewSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ACTIVEXLib">
+      <Guid>{012F24C1-35B0-11D0-BF2D-0000E8D0D146}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Logo.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
